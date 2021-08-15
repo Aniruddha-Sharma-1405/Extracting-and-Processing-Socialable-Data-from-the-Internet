@@ -1,4 +1,4 @@
-# Logistic-and-Linguistic-Inquiry-of-Socialable-Data
+# Exracting Socialable Data from the Internet
 Natural Language Processing project
 Topic: Extraction of Actionable Intelligence from Social Media
 
